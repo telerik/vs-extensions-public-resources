@@ -1,0 +1,1 @@
+This repo holds public resources used by the documents on VS extensions.
